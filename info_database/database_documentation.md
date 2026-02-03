@@ -55,11 +55,5 @@ A standard calendar table for time-based filtering and trend analysis.
 | **date** | The full date (Primary Key). |
 | **year / month / day** | Temporal attributes for granular reporting. |
 
----
-
-## 3. Core Logic Summary
-* **SCD Mapping:** `dim_employee` (1) → `dim_employee_situation` (N) → `FACT_survey_response` (1).
-
-* **Sentiment Analysis:** The `mixed` value in the `sentiment` column identifies feedback where employees express both positive and negative sentiments simultaneously.
 
 
