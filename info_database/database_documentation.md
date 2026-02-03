@@ -20,7 +20,7 @@ This central fact table stores the results of the employee satisfaction surveys.
 | **year** | The calendar year the survey was conducted. |
 | **recommendation_rating** | Numeric score (0–10) given by the employee. |
 | **comment** | Open-ended feedback provided by the employee. |
-| **has_comment** | Boolean. Indicates if the employee left a text comment. |
+| **has_comment** | True or False (text). Indicates if the employee left a text comment. |
 | **enps_category** | Employee Net Promoter Score category (*Promoter, Passive, Detractor*). |
 | **topics_positive** | Categorized positive themes mentioned in the comments. |
 | **topics_negative** | Categorized negative themes mentioned in the comments. |
@@ -61,3 +61,4 @@ A standard calendar table for time-based filtering and trend analysis.
 * **SCD Mapping:** `dim_employee` (1) → `dim_employee_situation` (N) → `FACT_survey_response` (1).
 
 * **Sentiment Analysis:** The `mixed` value in the `sentiment` column identifies feedback where employees express both positive and negative sentiments simultaneously.
+
