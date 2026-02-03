@@ -118,11 +118,13 @@ employee_satisfaction_survey_dashboard/
 │
 └── README.md
 
-### Data folders
+## Data folders
 - `raw/`: original survey data (no transformation)
 - `nlp_processed/`: datasets enriched with sentiment and topic analysis
 - `MySQL_Workbench_ready/`: datasets structured and enriched using SQL
 - `power_bi_ready/`: final datasets imported into Power BI
+
+---
 
 ## Tools & Technologies
 - Python (Pandas, NLTK, VADER, BERTopic)
