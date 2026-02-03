@@ -28,15 +28,14 @@ The challenge is to:
   - Country
   - Department
   - Employment status
-  - Seniority range
+  - Tenure range
 - Detect the **sentiment of employee comments**:
   - 100% positive
   - 100% negative
   - Mixed
 - Identify the **main themes** driving satisfaction and dissatisfaction
-- Build an **end-to-end data pipeline** from raw data to Power BI visualization
 
-> ⚠️ Due to the sensitive nature of employee comments, **no generative AI models** are used.  
+> Due to the sensitive nature of employee comments, **no generative AI models** are used.  
 > Topic detection is performed using **BERTopic**, an unsupervised topic modeling approach.
 
 ---
@@ -64,8 +63,8 @@ The project relies on a relational database composed of **4 tables**:
 
 4. **FACT_survey_response**  
    Survey responses including:
-   - eNPS recommendation score
-   - Optional open-ended comment
+   - recommendation rating (between 0 and 10)
+   - optional open-ended comment
 
 ---
 
@@ -98,7 +97,7 @@ employee_satisfaction_survey_dashboard/
 ├── data/
 │   ├── raw/
 │   ├── nlp_processed/
-│   ├── MySQL_Workbench_ready/
+│   ├── mysql_workbench_ready/
 │   └── power_bi_ready/
 │
 ├── nlp/
