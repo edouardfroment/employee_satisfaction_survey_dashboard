@@ -6,14 +6,6 @@ This database follows a **Star Schema** design. It is built to analyze employee 
 ### The Importance of SCD Type 2 Logic
 The database uses an SCD Type 2 approach via the `dim_employee_situation` table. This allows us to maintain a history of an employee's profile and ensures that survey results are linked to the *correct context* at the time of the response.
 
-> **Use Case Example:**
-> Imagine an employee working in **France** as a **Non-manager** in 2023 who gave a **negative** feedback score. In 2025, that same employee moves to **Spain** for a **Manager** position and gives a **positive** score. 
-> 
-> Thanks to the `employee_scd_id`, we can accurately report that:
-> * The **France** office had a detractor in 2023.
-> * The **Spain** office gained a promoter in 2025.
-> * The change in sentiment can be analyzed alongside the change in geography and responsibility.
-
 ---
 
 ## 2. Table Definitions & Data Dictionary
@@ -67,4 +59,5 @@ A standard calendar table for time-based filtering and trend analysis.
 
 ## 3. Core Logic Summary
 * **SCD Mapping:** `dim_employee` (1) → `dim_employee_situation` (N) → `FACT_survey_response` (1).
+
 * **Sentiment Analysis:** The `mixed` value in the `sentiment` column identifies feedback where employees express both positive and negative sentiments simultaneously.
