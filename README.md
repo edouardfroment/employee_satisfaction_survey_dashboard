@@ -8,7 +8,12 @@ This project presents a **Power BI dashboard** designed to analyze the results o
 
 The analysis focuses on the **eNPS (Employee Net Promoter Score)** and explores employee sentiment and key topics of satisfaction and dissatisfaction, while respecting data sensitivity constraints.
 
-<img width="842" height="896" alt="skapa_survey" src="https://github.com/user-attachments/assets/017f76bc-2daa-47c2-bca3-ca5328f14d43" />
+<p align="center">
+  <img src="power_bi/dashboard_screenshots/skapa_survey.png" width="600">
+</p>
+<p align="center">
+  <em>Employee Satisfaction Survey – eNPS Questions</em>
+</p>
 
 ---
 
