@@ -122,7 +122,7 @@ employee_satisfaction_survey_dashboard/
 ## Data folders
 - `raw/`: original survey data (no transformation)
 - `nlp_processed/`: datasets enriched with sentiment and topic analysis
-- `MySQL_Workbench_ready/`: datasets structured and enriched using SQL
+- `mysql_workbench_ready/`: datasets structured and enriched using SQL
 - `power_bi_ready/`: final datasets imported into Power BI
 
 ---
