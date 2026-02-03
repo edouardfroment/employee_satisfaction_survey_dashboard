@@ -8,13 +8,6 @@ This project presents a **Power BI dashboard** designed to analyze the results o
 
 The analysis focuses on the **eNPS (Employee Net Promoter Score)** and explores employee sentiment and key topics of satisfaction and dissatisfaction, while respecting data sensitivity constraints.
 
-<br>
-<p align="center">
-  <img src="power_bi/dashboard_screenshots/skapa_survey.png" width="500">
-</p>
-<p align="center">
-  <em>Employee Satisfaction Survey</em>
-</p>
 
 ---
 
@@ -26,6 +19,14 @@ The survey includes:
   *“How likely are you to recommend Skapa as a place to work?”* (eNPS score)
 - An optional open-ended question:  
   *“What is the primary reason for your score?”*
+
+<br>
+<p align="center">
+  <img src="power_bi/dashboard_screenshots/skapa_survey.png" width="500">
+</p>
+<p align="center">
+  <em>Employee Satisfaction Survey</em>
+</p>
 
 The challenge is to:
 - Analyze the eNPS score across multiple dimensions
