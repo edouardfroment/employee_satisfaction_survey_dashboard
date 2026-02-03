@@ -1,5 +1,8 @@
 # Employee Satisfaction Survey Dashboard
 
+## Dashboard Preview
+![Power BI Dashboard](power-bi/dashboard_screenshots/overview.png)
+
 ## Project Overview
 This project presents a **Power BI dashboard** designed to analyze the results of an **employee satisfaction survey**, combining structured survey data with **NLP-based insights** extracted from open-ended employee feedback.
 
@@ -115,3 +118,16 @@ employee_satisfaction_survey_dashboard/
 │
 └── README.md
 
+### Data folders
+- `raw/`: original survey data (no transformation)
+- `nlp_processed/`: datasets enriched with sentiment and topic analysis
+- `MySQL_Workbench_ready/`: datasets structured and enriched using SQL
+- `power_bi_ready/`: final datasets imported into Power BI
+
+## Tools & Technologies
+- Python (Pandas, NLTK, VADER, BERTopic)
+- Jupyter Notebook
+- MySQL Workbench
+- Power BI
+- DAX
+- Git / GitHub
