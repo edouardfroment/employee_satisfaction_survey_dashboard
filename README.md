@@ -47,7 +47,7 @@ The challenge is to:
   - Mixed
 - Identify the **main themes** driving satisfaction and dissatisfaction
 
-> Due to the sensitive nature of employee comments, **no generative AI models** are used.  
+> Due to the sensitive nature of employee comments, **no generative AI models** are used to analyse them.  
 > Topic detection is performed using **BERTopic**, an unsupervised topic modeling approach.
 
 ---
