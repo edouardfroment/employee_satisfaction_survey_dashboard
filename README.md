@@ -8,6 +8,8 @@ This project presents a **Power BI dashboard** designed to analyze the results o
 
 The analysis focuses on the **eNPS (Employee Net Promoter Score)** and explores employee sentiment and key topics of satisfaction and dissatisfaction, while respecting data sensitivity constraints.
 
+<img width="695" height="733" alt="image" src="https://github.com/user-attachments/assets/d779bfc2-529c-4ced-90a8-3f9545ada8b6" />
+
 ---
 
 ## Business Problem
