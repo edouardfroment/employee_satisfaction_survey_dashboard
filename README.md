@@ -133,4 +133,3 @@ employee_satisfaction_survey_dashboard/
 - MySQL Workbench
 - Power BI
 - DAX
-- Git / GitHub
