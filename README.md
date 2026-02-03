@@ -117,6 +117,7 @@ employee_satisfaction_survey_dashboard/
 │   └── dashboard_screenshots/
 │
 └── README.md
+```
 
 ## Data folders
 - `raw/`: original survey data (no transformation)
