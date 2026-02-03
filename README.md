@@ -80,6 +80,17 @@ The project relies on a relational database composed of **4 tables**:
 
 ---
 
+## Dataset Overview
+The analysis is based on **4,391 survey responses** collected over **3 consecutive years**.
+
+Out of these responses:
+- **3,747 employees** provided an open-ended comment
+- **644 responses** include a score only (no comment)
+
+This dataset allows for both **quantitative eNPS analysis** and **qualitative NLP-based insights**.
+
+---
+
 ## Project Workflow
 
 ### 1. NLP Analysis (Python)
