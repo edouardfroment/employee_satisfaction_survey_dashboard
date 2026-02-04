@@ -36,7 +36,7 @@ The challenge is to:
 ---
 
 ## Project Objectives
-- Analyze the **eNPS score** by:
+- Analyze the **eNPS** by:
   - Country
   - Department
   - Employment status
