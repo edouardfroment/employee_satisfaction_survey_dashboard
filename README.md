@@ -1,7 +1,7 @@
 # Employee Satisfaction Survey Dashboard
 
 ## Dashboard Preview
-![Power BI Dashboard](power_bi/dashboard_screenshots/overview.png)
+![Power BI Dashboard](power_bi/dashboard_screenshots/01_overview.png)
 
 ## Project Overview
 This project presents a **Power BI dashboard** designed to analyze the results of an **employee satisfaction survey**, combining structured survey data with **NLP-based insights** extracted from open-ended employee feedback.
@@ -22,7 +22,7 @@ The survey includes:
 
 <br>
 <p align="center">
-  <img src="power_bi/dashboard_screenshots/skapa_survey.png" width="500">
+  <img src="power_bi/dashboard_screenshots/15_Skapa_survey.png" width="500">
 </p>
 <p align="center">
   <em>Employee Satisfaction Survey</em>
