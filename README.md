@@ -234,7 +234,7 @@ Topic modeling highlights several dominant themes:
   - Than in a **negative one** (**8.6%**)
 
   This makes management quality a **key driver of employee experience** at Skapa.  
-  Understanding and scaling best managerial practices — while addressing recurring criticisms — should be a priority.
+  Understanding and scaling best managerial practices, while addressing recurring criticisms, should be a priority.
 
 - **Compensation** is also a major topic (**19.3% of comments**), with:
   - Approximately **two-thirds positive**
