@@ -267,7 +267,7 @@ Topic modeling highlights several dominant themes:
 - **Management practices** are the most discussed topic (**27.8% of comments**), appearing:
   - More often in a **positive context** (**19.2%**)
   - Than in a **negative one** (**8.6%**)
-
+<br>
   > This makes management quality a **key driver of employee experience** at Skapa.  
   > Understanding and scaling best managerial practices, while addressing recurring criticisms, should be a priority.
 
