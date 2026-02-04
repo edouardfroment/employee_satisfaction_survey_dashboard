@@ -182,7 +182,7 @@ This reflects a **significant improvement in employee perception** over the last
 ### 3. eNPS by Country
 Strong disparities appear across countries:
 - **Denmark** achieves the highest score (**eNPS +36**)
-- **Sweden** also performs well (**eNPS +18**)
+- **Sweden** also performs well (**eNPS +32**)
 - **Spain** records the lowest score (**eNPS +18**)
 
 However, Spain shows a **strong year-over-year improvement** (**+13 points vs. 2024**), while **France remains stable** (**0-point change vs. 2024**).
