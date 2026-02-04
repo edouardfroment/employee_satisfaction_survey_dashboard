@@ -160,7 +160,6 @@ employee_satisfaction_survey_dashboard/
 
 ### 1. Distribution of Promoters, Passives, and Detractors
 
-<br>
 <p align="left">
   <img src="power_bi/dashboard_screenshots/16_Distribution_eNPS.png" width="400">
 </p>
@@ -187,7 +186,6 @@ This reflects a **significant improvement in employee perception** over the last
 
 ### 3. eNPS by Country
 
-<br>
 <p align="left">
   <img src="power_bi/dashboard_screenshots/17_eNPS_by_Country.png" width="400">
 </p>
@@ -207,7 +205,6 @@ This constitutes a **critical insight for HR teams**, who could prioritize targe
 
 ### 4. eNPS by Tenure Band
 
-<br>
 <p align="left">
   <img src="power_bi/dashboard_screenshots/18_eNPS_by_Tenur_Brand.png" width="400">
 </p>
@@ -226,7 +223,6 @@ This indicates a phase of **employee disengagement emerging after the first year
 
 ### 5. eNPS by Department
 
-<br>
 <p align="left">
   <img src="power_bi/dashboard_screenshots/19_eNPS_by_Department.png" width="600">
 </p>
@@ -242,7 +238,6 @@ These results indicate departments where **employee experience improvement actio
 
 ### 6. eNPS by Employment Status (Manager vs. Non-Manager)
 
-<br>
 <p align="left">
   <img src="power_bi/dashboard_screenshots/20_eNPS_by_Status.png" width="300">
 </p>
@@ -258,9 +253,8 @@ HR actions could focus on **strengthening communication cascades** and ensuring 
 
 ### 7. Key Themes from Employee Comments
 
-<br>
 <p align="left">
-  <img src="power_bi/dashboard_screenshots/21_Topics_Management.png" width="800">
+  <img src="power_bi/dashboard_screenshots/21_Topics_Management.png" width="900">
 </p>
 
 Topic modeling highlights several dominant themes:
