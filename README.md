@@ -166,6 +166,10 @@ employee_satisfaction_survey_dashboard/
 
 A large proportion of survey respondents are classified as **Passives**, representing nearly **half of all respondents**.
 
+<p align="left">
+  <img src="power_bi/dashboard_screenshots/22_Sentiment_Distribution_passive.png" width="800">
+</p>
+
 A deeper analysis of sentiment within Passive comments reveals a polarized pattern:
 - Approximately **two-thirds of Passive comments are 100% positive**
 - About **one-third are 100% negative**
