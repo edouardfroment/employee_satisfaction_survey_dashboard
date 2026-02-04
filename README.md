@@ -153,3 +153,98 @@ employee_satisfaction_survey_dashboard/
 - MySQL Workbench
 - Power BI
 - DAX
+
+---
+
+## Key Insights
+
+### 1. Distribution of Promoters, Passives, and Detractors
+A large proportion of survey respondents are classified as **Passives**, representing nearly **half of all respondents**.
+
+A deeper analysis of sentiment within Passive comments reveals a polarized pattern:
+- Approximately **two-thirds of Passive comments are 100% positive**
+- About **one-third are 100% negative**
+- Very few comments fall into the “mixed” category
+
+This suggests that many neutral eNPS scores actually mask **strong underlying opinions**, highlighting the importance of combining quantitative scores with sentiment analysis.
+
+---
+
+### 2. Overall eNPS Trend
+The overall **eNPS shows a clear upward trend since 2023**, reaching **+28 in 2025**:
+- **+4 points in 2024**
+- **+11 points in 2025**
+
+This reflects a **significant improvement in employee perception** over the last two years.
+
+---
+
+### 3. eNPS by Country
+Strong disparities appear across countries:
+- **Denmark** achieves the highest score (**eNPS +36**)
+- **Sweden** also performs well (**eNPS +18**)
+- **Spain** records the lowest score (**eNPS +18**)
+
+However, Spain shows a **strong year-over-year improvement** (**+13 points vs. 2024**), while **France remains stable** (**0-point change vs. 2024**).
+
+A deeper drill-down reveals major internal differences within Spain:  
+the **Sales & Business Development** department records a **very low eNPS (-37)**.  
+This constitutes a **critical insight for HR teams**, who could prioritize targeted actions to improve the employee experience in this department.
+
+---
+
+### 4. eNPS by Tenure Band
+Employee satisfaction follows a non-linear pattern over time:
+- A noticeable **drop after the first year**
+- The **lowest satisfaction level between 3 and 5 years of tenure** (**eNPS +11**)
+- A steady recovery for more senior tenure bands
+- The highest score is observed among employees with **15+ years of tenure** (**excellent eNPS of +55**)
+
+This pattern suggests a classic **“end of the honeymoon” effect** after the first year, making the **3–5 year tenure group a key HR focus area** for retention and engagement initiatives.
+
+---
+
+### 5. eNPS by Department
+Three departments stand out with **less favorable eNPS scores** compared to others:
+- **Customer Experience & Design**: eNPS +13
+- **Cybersecurity & Digital Risk**: eNPS +13
+- **Sales & Business Development**: eNPS +17
+
+These results indicate departments where **employee experience improvement actions could have the highest impact**.
+
+---
+
+### 6. eNPS by Employment Status (Manager vs. Non-Manager)
+A significant perception gap exists between hierarchical levels:
+- **Managers**: eNPS **+41**
+- **Non-managers**: eNPS **+13**
+
+This gap suggests that company messaging and strategic vision may not be equally perceived across levels.  
+HR actions could focus on **strengthening communication cascades** and ensuring that managerial narratives are effectively relayed to non-manager employees.
+
+---
+
+### 7. Key Themes from Employee Comments
+Topic modeling highlights several dominant themes:
+
+- **Management practices** are the most discussed topic (**27.8% of comments**), appearing:
+  - More often in a **positive context** (**21.8%**)
+  - Than in a **negative one** (**8.6%**)
+
+  This makes management quality a **key driver of employee experience** at Skapa.  
+  Understanding and scaling best managerial practices — while addressing recurring criticisms — should be a priority.
+
+- **Compensation** is also a major topic (**19.3% of comments**), with:
+  - Approximately **two-thirds positive**
+  - One-third negative
+
+- Among positive themes:
+  - **Pride in belonging to the company** is mentioned in **21.8% of comments**
+  - **Purpose and meaning at work** appear in **11.4% of comments**
+
+- Two less frequent but critical negative themes require attention:
+  - **Workload** (**3.6%**)
+  - **Governance & decision-making** (**2.3%**)
+
+  Although mentioned less often, these topics represent **early warning signals** for HR teams aiming to further improve employee experience.
+
