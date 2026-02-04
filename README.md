@@ -1,7 +1,7 @@
 # Employee Satisfaction Survey Dashboard
 
 ## Dashboard Preview
-![Power BI Dashboard](power_bi/dashboard_screenshots/01_overview.png)
+![Power BI Dashboard](power_bi/dashboard_screenshots/01_Overview.png)
 
 ## Project Overview
 This project presents a **Power BI dashboard** designed to analyze the results of an **employee satisfaction survey**, combining structured survey data with **NLP-based insights** extracted from open-ended employee feedback.
