@@ -29,7 +29,7 @@ The survey includes:
 </p>
 
 The challenge is to:
-- Analyze the eNPS score across multiple dimensions
+- Analyze the eNPS across multiple dimensions
 - Extract sentiment and key themes from textual comments
 - Present all insights in an interactive and readable Power BI dashboard
 
