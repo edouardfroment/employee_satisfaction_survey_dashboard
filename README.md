@@ -159,6 +159,12 @@ employee_satisfaction_survey_dashboard/
 ## Key Insights
 
 ### 1. Distribution of Promoters, Passives, and Detractors
+
+<br>
+<p align="center">
+  <img src="power_bi/dashboard_screenshots/16_Distribution_eNPS.png" width="400">
+</p>
+
 A large proportion of survey respondents are classified as **Passives**, representing nearly **half of all respondents**.
 
 A deeper analysis of sentiment within Passive comments reveals a polarized pattern:
