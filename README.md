@@ -28,11 +28,6 @@ The survey includes:
   <em>Employee Satisfaction Survey</em>
 </p>
 
-The challenge is to:
-- Analyze the eNPS across multiple dimensions
-- Extract sentiment and key themes from textual comments
-- Present all insights in an interactive and readable Power BI dashboard
-
 ---
 
 ## Project Objectives
