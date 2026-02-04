@@ -200,7 +200,9 @@ Employee satisfaction follows a non-linear pattern over time:
 - A steady recovery for more senior tenure bands
 - The highest score is observed among employees with **15+ years of tenure** (**excellent eNPS of +55**)
 
-This pattern suggests a classic **“end of the honeymoon” effect** after the first year, making the **3–5 year tenure group a key HR focus area** for retention and engagement initiatives.
+This pattern reveals a clear **U-shaped relationship between tenure and employee satisfaction**, with the lowest eNPS observed among employees with **3–5 years of tenure**.
+
+This indicates a phase of **employee disengagement emerging after the first year**, suggesting the need for HR teams to further investigate the underlying drivers of this decline and to define **targeted action plans** to re-engage employees during this critical career stage.
 
 ---
 
