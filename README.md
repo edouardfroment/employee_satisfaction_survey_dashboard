@@ -16,7 +16,7 @@ The analysis focuses on the **eNPS (Employee Net Promoter Score)** and explores 
 
 The survey includes:
 - A quantitative question:  
-  *“How likely are you to recommend Skapa as a place to work?”* (eNPS score)
+  *“How likely are you to recommend Skapa as a place to work?”* (eNPS rating used to calculate the Employee Promotion Score.)
 - An optional open-ended question:  
   *“What is the primary reason for your score?”*
 
