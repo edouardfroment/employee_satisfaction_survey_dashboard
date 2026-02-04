@@ -15,8 +15,8 @@ The analysis focuses on the **eNPS (Employee Net Promoter Score)** and explores 
 **How can employee satisfaction survey results be analyzed and transformed into clear, actionable insights using a Power BI dashboard?**
 
 The survey includes:
-- A quantitative question:  
-  *“How likely are you to recommend Skapa as a place to work?”* (eNPS rating used to calculate the Employee Promotion Score.)
+- A quantitative question (eNPS rating used to calculate the Employee Promotion Score):  
+  *“How likely are you to recommend Skapa as a place to work?”*
 - An optional open-ended question:  
   *“What is the primary reason for your score?”*
 
