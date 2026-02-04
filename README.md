@@ -260,7 +260,7 @@ HR actions could focus on **strengthening communication cascades** and ensuring 
 Topic modeling highlights several dominant themes:
 
 - **Management practices** are the most discussed topic (**27.8% of comments**), appearing:
-  - More often in a **positive context** (**21.8%**)
+  - More often in a **positive context** (**19.2%**)
   - Than in a **negative one** (**8.6%**)
 
   This makes management quality a **key driver of employee experience** at Skapa.  
