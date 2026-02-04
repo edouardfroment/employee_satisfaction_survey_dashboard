@@ -170,12 +170,13 @@ A large proportion of survey respondents are classified as **Passives**, represe
   <img src="power_bi/dashboard_screenshots/22_Sentiment_Distribution_passive.png" width="800">
 </p>
 
-A deeper analysis of sentiment within Passive comments reveals a polarized pattern:
-- Approximately **two-thirds of Passive comments are 100% positive**
-- About **one-third are 100% negative**
-- Very few comments fall into the “mixed” category
+A deeper sentiment analysis of **Passive respondents** (ratings 7 and 8) reveals a strongly polarized distribution of opinions:
 
-This suggests that many neutral eNPS scores actually mask **strong underlying opinions**, highlighting the importance of combining quantitative scores with sentiment analysis.
+- **62.36%** of Passive respondents left a **100% positive comment**
+- **35.75%** left a **100% negative comment**
+- Only **1.89%** provided a **mixed comment** combining both positive and negative elements
+
+> Despite their neutral eNPS score, Passive respondents often express **clear and decisive opinions**, reinforcing the value of sentiment analysis beyond numerical ratings alone.
 
 ---
 
@@ -219,9 +220,9 @@ Employee satisfaction follows a non-linear pattern over time:
 - A steady recovery for more senior tenure bands
 - The highest score is observed among employees with **15+ years of tenure** (**excellent eNPS of +55**)
 
-This pattern reveals a clear **U-shaped relationship between tenure and employee satisfaction**, with the lowest eNPS observed among employees with **3–5 years of tenure**.
+> This pattern reveals a clear **U-shaped relationship between tenure and employee satisfaction**, with the lowest eNPS observed among employees with **3–5 years of tenure**.
 
-This indicates a phase of **employee disengagement emerging after the first year**, suggesting the need for HR teams to further investigate the underlying drivers of this decline and to define **targeted action plans** to re-engage employees during this critical career stage.
+> This indicates a phase of **employee disengagement emerging after the first year**, suggesting the need for HR teams to further investigate the underlying drivers of this decline and to define **targeted action plans** to re-engage employees during this critical career stage.
 
 ---
 
@@ -267,8 +268,8 @@ Topic modeling highlights several dominant themes:
   - More often in a **positive context** (**19.2%**)
   - Than in a **negative one** (**8.6%**)
 
-  This makes management quality a **key driver of employee experience** at Skapa.  
-  Understanding and scaling best managerial practices, while addressing recurring criticisms, should be a priority.
+  > This makes management quality a **key driver of employee experience** at Skapa.  
+  > Understanding and scaling best managerial practices, while addressing recurring criticisms, should be a priority.
 
 - **Compensation** is also a major topic (**19.3% of comments**), with:
   - Approximately **two-thirds positive**
