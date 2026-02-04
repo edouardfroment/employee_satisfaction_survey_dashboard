@@ -244,7 +244,7 @@ These results indicate departments where **employee experience improvement actio
 
 <br>
 <p align="left">
-  <img src="power_bi/dashboard_screenshots/20_eNPS_by_Status.png" width="400">
+  <img src="power_bi/dashboard_screenshots/20_eNPS_by_Status.png" width="300">
 </p>
 
 A significant perception gap exists between hierarchical levels:
@@ -260,7 +260,7 @@ HR actions could focus on **strengthening communication cascades** and ensuring 
 
 <br>
 <p align="left">
-  <img src="power_bi/dashboard_screenshots/21_Topics_Management.png" width="600">
+  <img src="power_bi/dashboard_screenshots/21_Topics_Management.png" width="800">
 </p>
 
 Topic modeling highlights several dominant themes:
