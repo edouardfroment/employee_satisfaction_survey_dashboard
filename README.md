@@ -161,7 +161,7 @@ employee_satisfaction_survey_dashboard/
 ### 1. Distribution of Promoters, Passives, and Detractors
 
 <br>
-<p align="center">
+<p align="left">
   <img src="power_bi/dashboard_screenshots/16_Distribution_eNPS.png" width="400">
 </p>
 
@@ -186,6 +186,12 @@ This reflects a **significant improvement in employee perception** over the last
 ---
 
 ### 3. eNPS by Country
+
+<br>
+<p align="left">
+  <img src="power_bi/dashboard_screenshots/17_eNPS_by_Country.png" width="400">
+</p>
+
 Strong disparities appear across countries:
 - **Denmark** achieves the highest score (**eNPS +36**)
 - **Sweden** also performs well (**eNPS +32**)
@@ -200,6 +206,12 @@ This constitutes a **critical insight for HR teams**, who could prioritize targe
 ---
 
 ### 4. eNPS by Tenure Band
+
+<br>
+<p align="left">
+  <img src="power_bi/dashboard_screenshots/18_eNPS_by_Tenur_Brand.png" width="400">
+</p>
+
 Employee satisfaction follows a non-linear pattern over time:
 - A noticeable **drop after the first year**
 - The **lowest satisfaction level between 3 and 5 years of tenure** (**eNPS +11**)
@@ -213,6 +225,12 @@ This indicates a phase of **employee disengagement emerging after the first year
 ---
 
 ### 5. eNPS by Department
+
+<br>
+<p align="left">
+  <img src="power_bi/dashboard_screenshots/19_eNPS_by_Department.png" width="400">
+</p>
+
 Three departments stand out with **less favorable eNPS scores** compared to others:
 - **Customer Experience & Design**: eNPS +13
 - **Cybersecurity & Digital Risk**: eNPS +13
@@ -223,6 +241,12 @@ These results indicate departments where **employee experience improvement actio
 ---
 
 ### 6. eNPS by Employment Status (Manager vs. Non-Manager)
+
+<br>
+<p align="left">
+  <img src="power_bi/dashboard_screenshots/21_Topics_Management.png" width="600">
+</p>
+
 A significant perception gap exists between hierarchical levels:
 - **Managers**: eNPS **+41**
 - **Non-managers**: eNPS **+13**
@@ -233,6 +257,12 @@ HR actions could focus on **strengthening communication cascades** and ensuring 
 ---
 
 ### 7. Key Themes from Employee Comments
+
+<br>
+<p align="left">
+  <img src="power_bi/dashboard_screenshots/17_eNPS_by_Country.png" width="400">
+</p>
+
 Topic modeling highlights several dominant themes:
 
 - **Management practices** are the most discussed topic (**27.8% of comments**), appearing:
