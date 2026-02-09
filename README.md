@@ -167,9 +167,9 @@ A large proportion of survey respondents are classified as **Passives**, represe
 
 A deeper sentiment analysis of **Passive respondents** (ratings 7 and 8) reveals a strongly polarized distribution of opinions:
 
-- **62.36%** of Passive respondents left a **100% positive comment**
-- **35.75%** left a **100% negative comment**
-- Only **1.89%** provided a **mixed comment** combining both positive and negative elements
+- **62.36%** of Passive respondents left **100% positive comments**
+- **35.75%** left **100% negative comments**
+- Only **1.89%** provided **mixed comments** combining both positive and negative elements
 
 > Despite their neutral eNPS score, Passive respondents often express **clear and decisive opinions**, reinforcing the value of sentiment analysis beyond numerical ratings alone.
 
