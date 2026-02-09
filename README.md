@@ -137,7 +137,7 @@ employee_satisfaction_survey_dashboard/
 ## Data folders
 - `raw/`: original survey data with no transformations applied.
 - `nlp_processed/`: fact_survey_response table enriched with sentiment analysis and topic modeling results.
-- `mysql_workbench_ready/`: cleaned and structured datasets ready for import into MySQL Workbench.
+- `mysql_workbench_ready/`: cleaned and structured dataset ready for import into MySQL Workbench.
 - `power_bi_ready/`: final datasets optimized for Power BI and used for reporting and dashboards.
 
 ---
