@@ -198,7 +198,7 @@ Strong disparities appear across countries:
 However, Spain shows a **strong year-over-year improvement** (**+13 points vs. 2024**), while **France remains stable** (**0-point change vs. 2024**).
 
 A deeper drill-down reveals major internal differences within Spain:  
-the **Sales & Business Development** department records a **very low eNPS (-37)**.  
+The **Sales & Business Development** department records a **very low eNPS (-37)**.  
 This constitutes a **critical insight for HR teams**, who could prioritize targeted actions to improve the employee experience in this department.
 
 ---
