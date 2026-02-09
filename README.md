@@ -227,7 +227,7 @@ Employee satisfaction follows a non-linear pattern over time:
   <img src="power_bi/dashboard_screenshots/19_eNPS_by_Department.png" width="600">
 </p>
 
-Three departments stand out with **less favorable eNPS scores** compared to others:
+Three departments stand out with **less favorable eNPS** compared to others:
 - **Customer Experience & Design**: eNPS +13
 - **Cybersecurity & Digital Risk**: eNPS +13
 - **Sales & Business Development**: eNPS +17
