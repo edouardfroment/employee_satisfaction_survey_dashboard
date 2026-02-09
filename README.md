@@ -171,7 +171,7 @@ A deeper sentiment analysis of **Passive respondents** (ratings 7 and 8) reveals
 - **35.75%** left **100% negative comments**
 - Only **1.89%** provided **mixed comments** combining both positive and negative elements
 
-> Despite their neutral eNPS score, Passive respondents often express **clear and decisive opinions**, reinforcing the value of sentiment analysis beyond numerical ratings alone.
+> Despite their neutral eNPS, Passive respondents often express **clear and decisive opinions**, reinforcing the value of sentiment analysis beyond numerical ratings alone.
 
 ---
 
