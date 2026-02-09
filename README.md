@@ -63,7 +63,7 @@ The project relies on a relational database composed of **4 tables**:
 
 2. **DIM_employee_situation**  
    Snapshot of the employee’s situation at the time of the survey  
-   (role, department, status — may change over time)
+   (role, department, status - may change over time)
 
 3. **DIM_date**  
    Calendar table used for time-based analysis
@@ -80,7 +80,7 @@ The analysis is based on **4,391 survey responses** collected over **3 consecuti
 
 Out of these responses:
 - **3,747 employees** provided an open-ended comment
-- **644 responses** include a score only (no comment)
+- **644 responses** included a score only (no comment)
 
 This dataset allows for both **quantitative eNPS analysis** and **qualitative NLP-based insights**.
 
