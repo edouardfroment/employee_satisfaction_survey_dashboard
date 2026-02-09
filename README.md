@@ -153,7 +153,7 @@ employee_satisfaction_survey_dashboard/
 
 ## Key Insights
 
-### 1. Distribution of Promoters, Passives, and Detractors
+### 1. Distribution of Promoters, Passives, and Detractors (2025 Results)
 
 <p align="left">
   <img src="power_bi/dashboard_screenshots/16_Distribution_eNPS.png" width="400">
