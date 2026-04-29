@@ -2,9 +2,9 @@
 
 ## 🎥 Demo
 
-<video src="demo.mp4" width="100%" controls autoplay loop muted>
-  Votre navigateur ne supporte pas la lecture de cette vidéo.
-</video>
+https://github.com/user-attachments/assets/f17961de-b793-46b0-9d9f-27f8a81132c3
+
+
 
 
 ## Dashboard Preview
