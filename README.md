@@ -2,10 +2,9 @@
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/f17961de-b793-46b0-9d9f-27f8a81132c3
-
-
-
+<video src="https://github.com/user-attachments/assets/f17961de-b793-46b0-9d9f-27f8a81132c3" controls autoplay loop muted width="100%">
+  Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
 
 ## Dashboard Preview
 ![Power BI Dashboard](power_bi/dashboard_screenshots/01_Overview.png)
