@@ -2,7 +2,9 @@
 
 ## 🎥 Demo
 
-[![Demo](https://cdn.loom.com/sessions/thumbnails/5dfb5ad88a254a44983ca42f886ab23a-00001.jpg)](https://www.loom.com/share/5dfb5ad88a254a44983ca42f886ab23a)
+<video src="demo.mp4" width="100%" controls autoplay loop muted>
+  Votre navigateur ne supporte pas la lecture de cette vidéo.
+</video>
 
 
 ## Dashboard Preview
